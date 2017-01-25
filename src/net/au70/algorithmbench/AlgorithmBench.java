@@ -7,7 +7,7 @@ public class AlgorithmBench {
     Frame frame;
 
     public AlgorithmBench() {
-        frame = new Frame(500, 500);
+        frame = new Frame(800, 500);
     }
 
     public static void main(String[] args) {
