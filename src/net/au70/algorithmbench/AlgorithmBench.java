@@ -4,10 +4,8 @@ import net.au70.algorithmbench.gui.Frame;
 
 public class AlgorithmBench {
 
-    Frame frame;
-
     public AlgorithmBench() {
-        frame = new Frame(800, 500);
+        Frame.start();
     }
 
     public static void main(String[] args) {
