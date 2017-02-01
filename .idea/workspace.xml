@@ -4,7 +4,7 @@
     <list default="true" id="a8b1d979-97e6-4ce5-9f52-3a77a8a35a66" name="Default" comment="" />
     <ignored path="AlgorithmBench.iws" />
     <ignored path=".idea/workspace.xml" />
-    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="I:/../Macintosh HD/Volumes/U/AlgorithmBench/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,40 +21,17 @@
     <favorites_list name="AlgorithmBench" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="AlgorithmBench.java" pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="AlgorithmBench.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/net/au70/algorithmbench/AlgorithmBench.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-              <folding>
-                <element signature="e#154#155#0" expanded="true" />
-                <element signature="e#197#198#0" expanded="true" />
-                <element signature="e#243#244#0" expanded="true" />
-                <element signature="e#279#280#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Frame.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/net/au70/algorithmbench/gui/Frame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+            <state relative-caret-position="374">
+              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1564#1565#0" expanded="true" />
+                <element signature="e#1606#1607#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RadixLSDSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/net/au70/algorithmbench/algorithms/RadixLSDSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -62,28 +39,30 @@
       <file leaf-file-name="Algorithm.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/net/au70/algorithmbench/algorithms/Algorithm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="102">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QuickSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/net/au70/algorithmbench/algorithms/QuickSort.java">
+      <file leaf-file-name="FrameCanvas.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/net/au70/algorithmbench/gui/FrameCanvas.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="-323">
+              <caret line="24" column="65" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="65" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BubbleSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/net/au70/algorithmbench/algorithms/BubbleSort.java">
+      <file leaf-file-name="Frame.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/net/au70/algorithmbench/gui/Frame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="2261">
+              <caret line="138" column="115" selection-start-line="138" selection-start-column="115" selection-end-line="138" selection-end-column="115" />
               <folding />
             </state>
           </provider>
@@ -92,8 +71,8 @@
       <file leaf-file-name="InsertionSort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/net/au70/algorithmbench/algorithms/InsertionSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="170">
+              <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -119,13 +98,19 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/net/au70/algorithmbench/algorithms/InsertionSort.java" />
-        <option value="$PROJECT_DIR$/src/net/au70/algorithmbench/algorithms/BubbleSort.java" />
-        <option value="$PROJECT_DIR$/src/net/au70/algorithmbench/algorithms/QuickSort.java" />
-        <option value="$PROJECT_DIR$/src/net/au70/algorithmbench/algorithms/Algorithm.java" />
-        <option value="$PROJECT_DIR$/src/net/au70/algorithmbench/algorithms/RadixLSDSort.java" />
-        <option value="$PROJECT_DIR$/src/net/au70/algorithmbench/AlgorithmBench.java" />
+        <option value="I:/../Macintosh HD/Volumes/U/AlgorithmBench/src/net/au70/algorithmbench/algorithms/InsertionSort.java" />
+        <option value="I:/../Macintosh HD/Volumes/U/AlgorithmBench/src/net/au70/algorithmbench/algorithms/BubbleSort.java" />
+        <option value="I:/../Macintosh HD/Volumes/U/AlgorithmBench/src/net/au70/algorithmbench/algorithms/QuickSort.java" />
+        <option value="I:/../Macintosh HD/Volumes/U/AlgorithmBench/src/net/au70/algorithmbench/gui/FrameCanvas.java" />
+        <option value="I:/../Macintosh HD/Volumes/U/AlgorithmBench/src/net/au70/algorithmbench/gui/Frame.java" />
+        <option value="I:/../Macintosh HD/Volumes/U/AlgorithmBench/src/net/au70/algorithmbench/AlgorithmBench.java" />
+        <option value="I:/../Macintosh HD/Volumes/U/AlgorithmBench/src/net/au70/algorithmbench/algorithms/Algorithm.java" />
+        <option value="I:/../Macintosh HD/Volumes/U/AlgorithmBench/src/net/au70/algorithmbench/algorithms/RadixLSDSort.java" />
         <option value="$PROJECT_DIR$/src/net/au70/algorithmbench/gui/Frame.java" />
+        <option value="$PROJECT_DIR$/src/net/au70/algorithmbench/algorithms/Algorithm.java" />
+        <option value="$PROJECT_DIR$/src/net/au70/algorithmbench/algorithms/InsertionSort.java" />
+        <option value="$PROJECT_DIR$/src/net/au70/algorithmbench/gui/FrameCanvas.java" />
+        <option value="$PROJECT_DIR$/src/net/au70/algorithmbench/AlgorithmBench.java" />
       </list>
     </option>
   </component>
@@ -242,15 +227,17 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="true" />
   </component>
   <component name="RunManager" selected="Application.Unnamed">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -309,7 +296,7 @@
       <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="I:/../Macintosh HD/Volumes/U/AlgorithmBench" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
@@ -520,33 +507,33 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3255814" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3255814" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.106770836" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39957717" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -561,65 +548,126 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/net/au70/algorithmbench/algorithms/BubbleSort.java">
+    <entry file="file://$PROJECT_DIR$/src/net/au70/algorithmbench/AlgorithmBench.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/net/au70/algorithmbench/algorithms/InsertionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/net/au70/algorithmbench/algorithms/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/net/au70/algorithmbench/algorithms/RadixLSDSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="765">
+          <caret line="53" column="35" selection-start-line="53" selection-start-column="35" selection-end-line="53" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1564#1565#0" expanded="true" />
+            <element signature="e#1606#1607#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/net/au70/algorithmbench/algorithms/Algorithm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="102">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/net/au70/algorithmbench/AlgorithmBench.java">
+    <entry file="file://$PROJECT_DIR$/src/net/au70/algorithmbench/gui/FrameCanvas.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#154#155#0" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/net/au70/algorithmbench/gui/Frame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+        <state relative-caret-position="2261">
+          <caret line="138" column="115" selection-start-line="138" selection-start-column="115" selection-end-line="138" selection-end-column="115" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/au70/algorithmbench/algorithms/InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="102" selection-start-line="35" selection-start-column="102" selection-end-line="35" selection-end-column="102" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://I:/../Macintosh HD/Volumes/U/AlgorithmBench/src/net/au70/algorithmbench/AlgorithmBench.java" />
+    <entry file="file://I:/../Macintosh HD/Volumes/U/AlgorithmBench/src/net/au70/algorithmbench/gui/Frame.java" />
+    <entry file="file://I:/../Macintosh HD/Volumes/U/AlgorithmBench/src/net/au70/algorithmbench/gui/FrameCanvas.java" />
+    <entry file="file://I:/../Macintosh HD/Volumes/U/AlgorithmBench/src/net/au70/algorithmbench/algorithms/RadixLSDSort.java" />
+    <entry file="file://I:/../Macintosh HD/Volumes/U/AlgorithmBench/src/net/au70/algorithmbench/algorithms/Algorithm.java" />
+    <entry file="file://I:/../Macintosh HD/Volumes/U/AlgorithmBench/src/net/au70/algorithmbench/algorithms/QuickSort.java" />
+    <entry file="file://I:/../Macintosh HD/Volumes/U/AlgorithmBench/src/net/au70/algorithmbench/algorithms/BubbleSort.java" />
+    <entry file="file://I:/../Macintosh HD/Volumes/U/AlgorithmBench/src/net/au70/algorithmbench/algorithms/InsertionSort.java" />
+    <entry file="file://I:/../Macintosh HD/Volumes/U/AlgorithmBench/src/net/au70/algorithmbench/AlgorithmBench.java" />
+    <entry file="file://I:/../Macintosh HD/Volumes/U/AlgorithmBench/src/net/au70/algorithmbench/gui/Frame.java" />
+    <entry file="file://I:/../Macintosh HD/Volumes/U/AlgorithmBench/src/net/au70/algorithmbench/gui/FrameCanvas.java" />
+    <entry file="file://I:/../Macintosh HD/Volumes/U/AlgorithmBench/src/net/au70/algorithmbench/algorithms/RadixLSDSort.java" />
+    <entry file="file://I:/../Macintosh HD/Volumes/U/AlgorithmBench/src/net/au70/algorithmbench/algorithms/Algorithm.java" />
+    <entry file="file://I:/../Macintosh HD/Volumes/U/AlgorithmBench/src/net/au70/algorithmbench/algorithms/QuickSort.java" />
+    <entry file="file://I:/../Macintosh HD/Volumes/U/AlgorithmBench/src/net/au70/algorithmbench/algorithms/BubbleSort.java" />
+    <entry file="file://I:/../Macintosh HD/Volumes/U/AlgorithmBench/src/net/au70/algorithmbench/algorithms/InsertionSort.java" />
+    <entry file="file://I:/../Macintosh HD/Volumes/U/AlgorithmBench/src/net/au70/algorithmbench/AlgorithmBench.java" />
+    <entry file="file://I:/../Macintosh HD/Volumes/U/AlgorithmBench/src/net/au70/algorithmbench/gui/Frame.java" />
+    <entry file="file://I:/../Macintosh HD/Volumes/U/AlgorithmBench/src/net/au70/algorithmbench/algorithms/RadixLSDSort.java" />
+    <entry file="file://I:/../Macintosh HD/Volumes/U/AlgorithmBench/src/net/au70/algorithmbench/algorithms/Algorithm.java" />
+    <entry file="file://I:/../Macintosh HD/Volumes/U/AlgorithmBench/src/net/au70/algorithmbench/algorithms/QuickSort.java" />
+    <entry file="file://I:/../Macintosh HD/Volumes/U/AlgorithmBench/src/net/au70/algorithmbench/algorithms/BubbleSort.java" />
+    <entry file="file://I:/../Macintosh HD/Volumes/U/AlgorithmBench/src/net/au70/algorithmbench/algorithms/InsertionSort.java" />
+    <entry file="file://I:/../Macintosh HD/Volumes/U/AlgorithmBench/src/net/au70/algorithmbench/algorithms/BubbleSort.java" />
+    <entry file="file://I:/../Macintosh HD/Volumes/U/AlgorithmBench/src/net/au70/algorithmbench/algorithms/InsertionSort.java" />
+    <entry file="file://I:/../Macintosh HD/Volumes/U/AlgorithmBench/src/net/au70/algorithmbench/algorithms/QuickSort.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/src.zip!/java/awt/Canvas.java" />
+    <entry file="file://I:/../Macintosh HD/Volumes/U/AlgorithmBench/src/net/au70/algorithmbench/gui/Frame.java" />
+    <entry file="file://I:/../Macintosh HD/Volumes/U/AlgorithmBench/src/net/au70/algorithmbench/AlgorithmBench.java" />
+    <entry file="file://I:/../Macintosh HD/Volumes/U/AlgorithmBench/src/net/au70/algorithmbench/algorithms/Algorithm.java" />
+    <entry file="file://I:/../Macintosh HD/Volumes/U/AlgorithmBench/src/net/au70/algorithmbench/algorithms/RadixLSDSort.java" />
+    <entry file="file://I:/../Macintosh HD/Volumes/U/AlgorithmBench/src/net/au70/algorithmbench/gui/FrameCanvas.java" />
+    <entry file="file://$PROJECT_DIR$/src/net/au70/algorithmbench/algorithms/Algorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/au70/algorithmbench/algorithms/InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/au70/algorithmbench/gui/Frame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2261">
+          <caret line="138" column="115" selection-start-line="138" selection-start-column="115" selection-end-line="138" selection-end-column="115" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/au70/algorithmbench/gui/FrameCanvas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-323">
+          <caret line="24" column="65" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="65" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/au70/algorithmbench/AlgorithmBench.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1564#1565#0" expanded="true" />
+            <element signature="e#1606#1607#0" expanded="true" />
           </folding>
         </state>
       </provider>
