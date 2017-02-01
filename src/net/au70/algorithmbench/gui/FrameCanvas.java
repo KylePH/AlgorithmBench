@@ -1,5 +1,6 @@
 package net.au70.algorithmbench.gui;
 
+<<<<<<< HEAD
 import net.au70.algorithmbench.AlgorithmBench;
 
 import java.awt.*;
@@ -84,5 +85,22 @@ public class FrameCanvas extends Canvas {
         for(int i = 0; i < currentList.length; i++) {
             translatedList[i] = (int)((float)currentList[i] * ratio);
         }
+=======
+import java.awt.*;
+
+public class FrameCanvas extends Canvas {
+
+    public FrameCanvas() {
+        setBackground(new Color(50, 50, 50));
+        setSize(new Dimension(600, 500));
+    }
+
+    // Y = 10 is the top
+    public void paint(Graphics gr) {
+        Graphics2D g;
+        g = (Graphics2D) gr;
+        //g.setColor(new Color(255, 0, 0));
+        //g.drawString("test!", 100, 10);
+>>>>>>> origin/master
     }
 }

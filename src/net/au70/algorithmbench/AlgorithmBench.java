@@ -9,6 +9,7 @@ import java.util.Random;
 
 public class AlgorithmBench {
 
+<<<<<<< HEAD
     public static Frame frame;
     public static ArrayList<Algorithm> algorithms;
     public static int[] list;
@@ -89,6 +90,10 @@ public class AlgorithmBench {
         }
 
         return randList;
+=======
+    public AlgorithmBench() {
+        Frame.start();
+>>>>>>> origin/master
     }
 
     public static void main(String[] args) {
